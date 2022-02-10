@@ -5,5 +5,5 @@ This is a very simple parametric model for spacers which press-fit into a Kailh 
 
 To tweak the travel distance you can adjust the `height` parameter in `switchmod.scad`. You will need to install [OpenSCAD](https://openscad.org/downloads.html#snapshots) (development snapshot recommended) and [BOSL](https://github.com/revarbat/BOSL). You can then open the .scad file in OpenSCAD, modify the parameters at the top as needed, render, and export as STL.
 
-![](1.jpg)
-![](2.jpg)
+![](images/1.jpg)
+![](images/2.jpg)
