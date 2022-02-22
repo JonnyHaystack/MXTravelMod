@@ -1,5 +1,5 @@
-# KailhSwitchMod
-Reduce travel distance for Kailh Speed Silvers (and others)
+# MX Switch Travel Reduction Mod
+Reduce travel distance for MX switches. So far tested on Kailh Speed Silvers and gateron clears (with different spacer heights).
 
 This is a very simple parametric model for spacers which press-fit into a Kailh speed switch and limit the total travel distance. They are designed to be 3D printed out of TPU or similar so that they can squish enough to friction fit in place easily.
 
